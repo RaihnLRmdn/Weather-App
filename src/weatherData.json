@@ -1,0 +1,46 @@
+{
+  "coord": {
+    "lon": 98.4854,
+    "lat": 3.6001
+  },
+  "weather": [
+    {
+      "id": 804,
+      "main": "Clouds",
+      "description": "overcast clouds",
+      "icon": "04n"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 299.12,
+    "feels_like": 299.12,
+    "temp_min": 299.12,
+    "temp_max": 299.12,
+    "pressure": 1012,
+    "humidity": 96,
+    "sea_level": 1012,
+    "grnd_level": 1008
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 1.15,
+    "deg": 216,
+    "gust": 1.11
+  },
+  "clouds": {
+    "all": 100
+  },
+  "dt": 1728142902,
+  "sys": {
+    "type": 1,
+    "id": 9412,
+    "country": "ID",
+    "sunrise": 1728083533,
+    "sunset": 1728126988
+  },
+  "timezone": 25200,
+  "id": 1215355,
+  "name": "Binjai",
+  "cod": 200
+}
